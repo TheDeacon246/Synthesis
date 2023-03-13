@@ -15,11 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          The Weekend is the King of Music
         </a>
       </header>
     </div>
   );
 }
-
 export default App;
